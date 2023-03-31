@@ -18,7 +18,7 @@
 * android studio
 * node js
 * cmd
-* 
+* vs code
 
 ### 1. 자신의 포트폴리오 앱
 
